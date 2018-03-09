@@ -5,6 +5,8 @@
  */
 package name;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Leena
@@ -16,7 +18,9 @@ public class Name {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
         System.out.println("Hello Leena");
+        System.out.println("Thank You");
     }
-    
+
 }
